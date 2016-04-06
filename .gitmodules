@@ -1,0 +1,3 @@
+[submodule "cljs"]
+	path = cljs
+	url = https://github.com/PsychicNoodles/rpi-media-cljs.git
